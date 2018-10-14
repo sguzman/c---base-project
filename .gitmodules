@@ -1,0 +1,12 @@
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/madler/zlib
+[submodule "cpr"]
+	path = cpr
+	url = https://github.com/whoshuu/cpr.git
+[submodule "gumbo-parser"]
+	path = gumbo-parser
+	url = https://github.com/google/gumbo-parser
+[submodule "libpqxx"]
+	path = libpqxx
+	url = https://github.com/jtv/libpqxx
